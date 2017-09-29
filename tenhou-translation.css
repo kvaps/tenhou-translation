@@ -1,4 +1,9 @@
 @-moz-document url("http://tenhou.net/0/") {
+#_tenhou_hid_d a:contains('Flash版で開く') {
+    color: #F00;
+}
+/*
+
 #_tenhou_hid_d {
 }
 #_tenhou_hid_d a[href="http://tenhou.net/3/"],
@@ -202,9 +207,26 @@ div#\#testplay-1552 div.desc:before{
 }
 
 
-/* http://arcturus.su/tenhou/glossary.html */
 
 div#m2098693:after {
     content: 'Pon';
 }
+
+
+/* http://arcturus.su/tenhou/glossary.html */
+
+/*
+
+TODO: Move to jQuery
+
+$("div#m2098693 p").text(function () {
+    return $(this).text().replace("チー", "Chii"); 
+});
+
+
+$("div#m2098693 p").text(function () {
+    return $(this).text().replace("ポン", "Pon"); 
+});
+
+*/
 }
