@@ -1,0 +1,210 @@
+@-moz-document url("http://tenhou.net/0/") {
+#_tenhou_hid_d {
+}
+#_tenhou_hid_d a[href="http://tenhou.net/3/"],
+#_tenhou_hid_d a[onclick="document.f.submit();return false;"],
+#_tenhou_hid_d a[href="tenhouapp://tenhou.net/0/"] {
+    color: transparent;
+    font-size: 0;
+}
+#_tenhou_hid_d a[href="http://tenhou.net/3/"]:before,
+#_tenhou_hid_d a[onclick="document.f.submit();return false;"]:before,
+#_tenhou_hid_d a[href="tenhouapp://tenhou.net/0/"]:before {
+    color: #0000FF;
+    font-size: 10pt;
+    text-decoration: underline;
+}
+#_tenhou_hid_d a[href="http://tenhou.net/3/"]:before {
+    content: 'Web-version';
+}
+#_tenhou_hid_d a[onclick="document.f.submit();return false;"]:before {
+    content: 'Flash-version';
+}
+a[href="tenhouapp://tenhou.net/0/"]:before {
+    content: 'Application-version';
+}
+a[href="http://tenhou.net/3/tr/"] {
+    color: transparent;
+    font-size: 0;
+}
+a[href="http://tenhou.net/3/tr/"]:before {
+    content: '[New] Tianfeng Training β (Application version only for Web version)';
+    color: #0000FF;
+    font-size: 10pt;
+    text-decoration: underline;
+}
+}
+
+@-moz-document url("http://tenhou.net/3/") {
+div#pane1 button[name=ok],
+div#pane1 button[name=regid],
+div#pane1 button[name=idcont],
+div#pane1 button[name=cfg],
+div#panes button[name=testplay],
+div#m2098693
+{
+    text-indent: -9999px;
+    line-height: 0;
+}
+div#pane1 button[name=ok]:after,
+div#pane1 button[name=regid]:after,
+div#pane1 button[name=idcont]:after,
+div#pane1 button[name=cfg]:after,
+div#panes button[name=testplay]:after,
+div#m2098693:after
+{
+    text-indent: 0;
+    display: block;
+    line-height: initial;
+}
+div#pane1 button[name=ok]:after {
+    content: 'Guest Login';
+}
+div#pane1 button[name=regid]:after {
+    content: 'Registration';
+}
+div#pane1 button[name=idcont]:after {
+    content: 'Login';
+}
+div#pane1 button[name=cfg]:after {
+    content: 'Configuration';
+}
+div#panes button[name=testplay]:after {
+    content: 'Test play';
+}
+
+/* =============================================== */
+
+div#panes div#hdr span[class="gray"],
+div#panes div#lbinfo span[class="gray"],
+div#panes div#hdr td[class="gray"]:nth-child(1),
+div#panes span[class="gray"]:nth-last-child(1)
+{
+    font-size: 0.000001em;
+}
+div#panes div#hdr span[class="gray"]:before,
+div#panes div#lbinfo span[class="gray"]:before,
+div#panes div#hdr td[class="gray"]:nth-child(1):before,
+div#panes span[class="gray"]:nth-last-child(1):before
+{
+    font-size: 1000000em;
+}
+
+div#panes div#hdr td[style="text-align:left;"] span[class="gray"]:nth-child(1):before {
+    content: 'Online:';
+}
+div#panes div#hdr td[style="text-align:left;"] span[class="gray"]:nth-child(3):before {
+    content: 'Wait:';
+}
+div#panes div#hdr td[style="text-align:left;"] span[class="gray"]:nth-child(5):before {
+    content: 'Away:';
+}
+div#panes div#hdr span#expdisp span[class="gray"]:nth-child(1):before {
+    content: 'Expire:';
+}
+div#panes div#lbinfo span[class="gray"]:before {
+    content: '● To make the address bar smaller Scroll down and then slowly scroll upward (depending on the model type) ● OK / Pass / Tumper cut is right click or double tap';
+}
+
+div#panes div#hdr td[class="gray"]:nth-child(1):before  {
+    content: 'To acquire the stage grade position\A"New ID" registration is required';
+    white-space: pre; 
+}
+
+div#panes span[class="gray"]:nth-last-child(1):before {
+    
+    content: 'Please click the button with the bottom arrow.';
+}
+
+
+
+div#\#testplay-64,
+div#\#testplay-0,
+div#\#testplay-16,
+div#\#testplay-1536,
+div#\#testplay-1552,
+div#\#testplay-64 div.desc,
+div#\#testplay-0 div.desc,
+div#\#testplay-16 div.desc,
+div#\#testplay-1536 div.desc,
+div#\#testplay-1552 div.desc
+{
+    line-height: 0;
+    color: transparent;
+}
+
+div#\#testplay-64:before,
+div#\#testplay-0:before,
+div#\#testplay-16:before,
+div#\#testplay-1536:before,
+div#\#testplay-1552:before
+{
+    text-indent: 0;
+    display: block;
+    line-height: initial;
+    color: #000;
+}
+
+div#\#testplay-64 div.desc:before,
+div#\#testplay-0 div.desc:before,
+div#\#testplay-16 div.desc:before,
+div#\#testplay-1536 div.desc:before,
+div#\#testplay-1552 div.desc:before
+{
+    text-indent: 0;
+    display: block;
+    line-height: initial;
+    color: #666;
+}
+
+div#\#testplay-64:before{
+    content: 'General Eastern Red Rapid';
+}
+
+
+div#\#testplay-64 div.desc:before{
+    content: '(4 people blowing easterly blowing ant ant red speed)';
+}
+
+div#\#testplay-0:before{
+    content: 'Four General Eastern Red';
+}
+
+
+div#\#testplay-0 div.desc:before{
+    content: '(4 people blowing easterly blowing ant ant red)';
+}
+
+div#\#testplay-16:before{
+    content: 'Three east red';
+}
+
+
+div#\#testplay-16 div.desc:before{
+    content: '(3 people blow east wind blowing ant ant red)';
+}
+
+div#\#testplay-1536:before{
+    content: 'Four if the East speed 5';
+}
+
+div#\#testplay-1536 div.desc:before{
+    content: '(4 people blowing easterly blowing ant ant red ali)';
+}
+
+div#\#testplay-1552:before{
+    content: 'Three if the East speed 5';
+}
+
+
+div#\#testplay-1552 div.desc:before{
+    content: '(3 people blowing easterly wind Ali red ali)';
+}
+
+
+/* http://arcturus.su/tenhou/glossary.html */
+
+div#m2098693:after {
+    content: 'Pon';
+}
+}
