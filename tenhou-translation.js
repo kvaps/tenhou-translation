@@ -551,7 +551,66 @@ var data = [
     orig:      '三般南喰赤速',
     translate: 'Three General South Red Rapid'
   },
-
+  {
+    element:   'div#panes div.select-wrapper button[name=rule]',
+    orig:      '三般南喰赤速',
+    translate: 'Three General South Red Rapid'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-25"]',
+    orig:      '三般南喰赤',
+    translate: 'Three General South Red'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-25"]',
+    orig:      '三般南喰赤',
+    translate: 'Three General South Red'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-25"]',
+    orig:      '三般南喰赤',
+    translate: 'Three General South Red'
+  },
+  {
+    element:   'div#panes div.select-wrapper button[name=rule]',
+    orig:      '四般東喰赤速',
+    translate: 'Four General East Red Rapid'
+  },
+  {
+    element:   'div#panes div.select-wrapper button[name=rule]',
+    orig:      '四般南喰赤速',
+    translate: 'Four General South Red Rapid'
+  },
+  {
+    element:   'div#panes div.select-wrapper button[name=rule]',
+    orig:      '三般東喰赤速',
+    translate: 'Three General East Red Rapid'
+  },
+  {
+    element:   'div#panes div.select-wrapper button[name=rule]',
+    orig:      '三般南喰赤速',
+    translate: 'Three General South Red Rapid'
+  },
+  {
+    element:   'div#panes div.select-wrapper button[name=rule]',
+    orig:      '四般東喰赤',
+    translate: 'Four General East Red'
+  },
+  {
+    element:   'div#panes div.select-wrapper button[name=rule]',
+    orig:      '四般南喰赤',
+    translate: 'Four General South Red'
+  },
+  {
+    element:   'div#panes div.select-wrapper button[name=rule]',
+    orig:      '三般南喰赤',
+    translate: 'Three General South Red'
+  },
+  {
+    element:   'div#panes div.select-wrapper button[name=rule]',
+    orig:      '三般東喰赤',
+    translate: 'Four General East Red '
+  },
 ]
 
 window.setInterval(function(){
