@@ -161,17 +161,17 @@ var data = [
   },
   // Settings page
   {
-    element:   'div.tbc div#paneDisp',
+    element:   'div.tbc div#paneDisp[style="font-size:125%;pointer-events:none;"]',
     orig:      '環境',
     translate: 'Environment'
   },
   {
-    element:   'div.tbc div#paneDisp',
+    element:   'div.tbc div#paneDisp[style="font-size:125%;pointer-events:none;"]',
     orig:      '卓',
     translate: 'Deck'
   },
   {
-    element:   'div.tbc div#paneDisp',
+    element:   'div.tbc div#paneDisp[style="font-size:125%;pointer-events:none;"]',
     orig:      '牌',
     translate: 'Tile'
   },
