@@ -268,4 +268,4 @@ window.setInterval(function(){
     $(element + ':contains(' + orig + ')').html( text.replace(orig, translate) )
   } catch (e) {}
   }
-}, 500);
+}, 200);
