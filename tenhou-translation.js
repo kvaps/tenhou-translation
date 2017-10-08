@@ -55,6 +55,16 @@ var data = [
     translate: 'Please enter Player ID (19 half-width characters)',
   },
   {
+    element:   'div.tbl div[style="position:relative;font-size:150%;padding:1em 0;"]',
+    orig:      '登録が完了しました。IDを紛失しないようにコピーしてください。',
+    translate: 'Registration has been completed. Please copy the ID so that it will not be lost.',
+  },
+  {
+    element:   'div.tbl div[style="position:relative;font-size:150%;padding:1em 0;"] small.gray',
+    orig:      '(※180日以上対戦を行っていないIDは削除されますのでご注意ください)',
+    translate: '(Please be aware that IDs not playing against 180 days or more will be deleted)',
+  },
+  {
     element:   'div.tbl div#info span[style="font-size:75%;color:#F00"]',
     orig:      'IDが正しくありません',
     translate: 'Incorrect ID',
