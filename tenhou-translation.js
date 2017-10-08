@@ -242,52 +242,52 @@ var data = [
     translate: 'Please select game from dropdown menu'
   },
   {
-    element:   'div.tbc div.fixed-select.sscl div##testplay-64.A',
+    element:   'div.tbc div.fixed-select.sscl div.A[id="#testplay-64"]',
     orig:      '四般東喰赤速',
     translate: 'General Eastern Red Rapid'
   },
   {
-    element:   'div.tbc div.fixed-select.sscl div##testplay-64.A div.desc',
+    element:   'div.tbc div.fixed-select.sscl div.A[id="#testplay-64"] div.desc',
     orig:      '(４人打 東風 喰断アリ 赤アリ 速)',
     translate: '(4 people blowing easterly blowing ant ant red speed)'
   },
   {
-    element:   'div.tbc div.fixed-select.sscl div##testplay-0.A',
+    element:   'div.tbc div.fixed-select.sscl div.A[id="#testplay-0"]',
     orig:      '四般東喰赤',
     translate: 'Four General Eastern Red'
   },
   {
-    element:   'div.tbc div.fixed-select.sscl div##testplay-0.A div.desc',
+    element:   'div.tbc div.fixed-select.sscl div.A[id="#testplay-0"] div.desc',
     orig:      '(４人打 東風 喰断アリ 赤アリ)',
     translate: '(4 people blowing easterly blowing ant ant red)'
   },
   {
-    element:   'div.tbc div.fixed-select.sscl div##testplay-16.A',
+    element:   'div.tbc div.fixed-select.sscl div.A[id="#testplay-16"]',
     orig:      '三般東喰赤',
     translate: 'Three east red'
   },
   {
-    element:   'div.tbc div.fixed-select.sscl div##testplay-16.A div.desc',
+    element:   'div.tbc div.fixed-select.sscl div.A[id="#testplay-16"] div.desc',
     orig:      '(３人打 東風 喰断アリ 赤アリ)',
     translate: '(3 people blow east wind blowing ant ant red)'
   },
   {
-    element:   'div.tbc div.fixed-select.sscl div##testplay-1536.A',
+    element:   'div.tbc div.fixed-select.sscl div.A[id="#testplay-1536"]',
     orig:      '四若東速祝５',
     translate: 'Four if the East speed 5'
   },
   {
-    element:   'div.tbc div.fixed-select.sscl div##testplay-1536.A div.desc',
+    element:   'div.tbc div.fixed-select.sscl div.A[id="#testplay-1536"] div.desc',
     orig:      '(４人打 東風 喰断アリ 赤アリ 祝儀)',
     translate: '(4 people blowing easterly blowing ant ant red ali)'
   },
   {
-    element:   'div.tbc div.fixed-select.sscl div##testplay-1552.A',
+    element:   'div.tbc div.fixed-select.sscl div.A[id="#testplay-1552"]',
     orig:      '三若東速祝５',
     translate: 'Three if the East speed 5'
   },
   {
-    element:   'div.tbc div.fixed-select.sscl div##testplay-1552.A div.desc',
+    element:   'div.tbc div.fixed-select.sscl div.A[id="#testplay-1552"] div.desc',
     orig:      '(３人打 東風 喰断アリ 赤アリ 祝儀)',
     translate: '(3 people blowing easterly wind Ali red ali)'
   },
