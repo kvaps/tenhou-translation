@@ -205,6 +205,16 @@ var data = [
     orig:      '牌山表示',
     translate: 'Tayama display'
   },
+  {
+    element:   'div.tbc div.fixed-select.sscl div',
+    orig:      'あり',
+    translate: 'There'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div',
+    orig:      'なし',
+    translate: 'None'
+  },
 ]
 
 window.setInterval(function(){
