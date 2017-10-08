@@ -612,6 +612,28 @@ var data = [
     orig:      '三般東喰赤',
     translate: 'Four East Red'
   },
+  // Game
+  {
+    element:   'div.nosel div.tbl div. tbc.bgb span',
+    orig:      '自動理牌',
+    translate: 'Automatic tile
+'
+  },
+  {
+    element:   'div.nosel div.tbl div. tbc.bgb span',
+    orig:      'ツモ切り',
+    translate: 'Tossed'
+  },
+  {
+    element:   'div.nosel div.tbl div. tbc.bgb span',
+    orig:      '自動和了',
+    translate: 'Automatic Waiver'
+  },
+  {
+    element:   'div.nosel div.tbl div. tbc.bgb span',
+    orig:      '鳴きなし',
+    translate: 'No squealing'
+  },
 ]
 
 window.setInterval(function(){
