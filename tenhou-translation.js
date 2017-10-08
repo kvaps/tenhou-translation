@@ -158,12 +158,32 @@ var data = [
   {
     element:   'div.tbc div#paneDisp',
     orig:      '環境',
-    translate: 'environment'
+    translate: 'Environment'
   },
   {
     element:   'div.tbc div#paneDisp span[class="gray"]',
     orig:      ' / 設定',
     translate: ' / Configuration'
+  },
+  {
+    element:   'div.select-wrapper div#panes button',
+    orig:      '画面方向:Default',
+    translate: 'Screen direction: Default'
+  },
+  {
+    element:   'div.select-wrapper div#panes span.gray',
+    orig:      '※アプリ版でのみご利用いただけます',
+    translate: '※ Only available in the application version'
+  },
+  {
+    element:   'div.tbc div#panes label.bth',
+    orig:      '配信ID保護',
+    translate: 'Delivery ID protection'
+  },
+  {
+    element:   'div.select-wrapper div#panes span.gray',
+    orig:      '※ログイン画面のID入力を非表示にします',
+    translate: '* Hide ID input on login screen'
   },
 ]
 
