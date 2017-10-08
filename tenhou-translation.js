@@ -291,6 +291,27 @@ var data = [
     orig:      '(３人打 東風 喰断アリ 赤アリ 祝儀)',
     translate: '(3 people blowing easterly wind Ali red ali)'
   },
+  {
+    element:   'div.tbc div#paneDisp',
+    orig:      '個室',
+    translate: 'Private room '
+  },
+  {
+    element:   'div.tbc div#paneDisp',
+    orig:      '大会',
+    translate: 'Tournament '
+  },
+  {
+    element:   'div.tbc div#paneDisp',
+    orig:      '牌譜',
+    translate: 'Tile score'
+  },
+  {
+    element:   'div.tbc div#paneDisp',
+    orig:      '観戦',
+    translate: 'Watching'
+  },
+  
   // Settings page
   {
     element:   'div.tbc div#paneDisp[style="font-size:125%;pointer-events:none;"]',
