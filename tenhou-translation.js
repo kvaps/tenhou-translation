@@ -100,6 +100,51 @@ var data = [
     translate: 'Move the lobby',
   },
   {
+    element:   'div.tbc div.fixed-select.sscl a.A',
+    orig:      'ランキング戦',
+    translate: 'Ranking game'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl a.A div.desc',
+    orig:      '(段位戦、雀荘戦)',
+    translate: '(Stage warfare, mahjong fight)'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl a.A',
+    orig:      'イベント会場１',
+    translate: 'Event Venue 1'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl a.A div.desc',
+    orig:      '(公式イベントで使用します)',
+    translate: '(Used in official event)'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl a.A',
+    orig:      'イベント会場２',
+    translate: 'Event Venue 2'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl a.A',
+    orig:      'その他',
+    translate: 'Other'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl a.A div.desc',
+    orig:      '(個室番号を指定してロビーを移動します)',
+    translate: '(Specify private room number and move lobby)'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl a.A',
+    orig:      'ロビーの新規作成',
+    translate: 'Create a new lobby'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl a.A div.desc',
+    orig:      '(天鳳サイトの個室作成ページを開きます)',
+    translate: '(Opens the private room creation page of Tenzhou site)'
+  },
+  {
     element:   'div.tbl div#info span[style="font-size:75%;color:#F00"]',
     orig:      'IDが正しくありません',
     translate: 'Incorrect ID',
