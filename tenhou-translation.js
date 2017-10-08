@@ -42,7 +42,7 @@ var data = [
   {
     element:   'div#pane1 button[name=cfg]',
     orig:      '設定',
-    translate: 'Settings',
+    translate: 'Configuration',
   },
   {
     element:   'div.tbc span[style="position:absolute;bottom:2em;"] span.gray',
