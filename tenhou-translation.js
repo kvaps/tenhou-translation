@@ -294,7 +294,7 @@ var data = [
   {
     element:   'div.tbc div#paneDisp',
     orig:      '個室',
-    translate: 'Private room '
+    translate: 'Room '
   },
   {
     element:   'div.tbc div#paneDisp',
