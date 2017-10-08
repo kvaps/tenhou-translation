@@ -510,6 +510,43 @@ var data = [
     orig:      '料金のお支払い',
     translate: 'Purchase'
   },
+
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-65"]',
+    orig:      '四般東喰赤',
+    translate: 'Four General East Red'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-1"]',
+    orig:      '四般東喰赤速',
+    translate: 'Four General East Red Rapid'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-73"]',
+    orig:      '四般南喰赤速',
+    translate: 'Four General South Red Rapid'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-17"]',
+    orig:      '三般東喰赤',
+    translate: 'Four General East Red '
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-81"]',
+    orig:      '三般東喰赤速',
+    translate: 'Three General East Red Rapid'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-25"]',
+    orig:      '三般南喰赤',
+    translate: 'Three General South Red'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-89"]',
+    orig:      '三般南喰赤速',
+    translate: 'Three General South Red Rapid'
+  },
+
 ]
 
 window.setInterval(function(){
