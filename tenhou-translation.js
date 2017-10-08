@@ -190,6 +190,21 @@ var data = [
     orig:      '※ログイン画面のID入力を非表示にします',
     translate: '* Hide ID input on login screen'
   },
+  {
+    element:   'div.tbc div#panes button',
+    orig:      '入力補助',
+    translate: 'Input assistance'
+  },
+  {
+    element:   'div.tbc div#panes span[class="gray"]',
+    orig:      '※縦画面のみで表示されます',
+    translate: '* It is displayed only in portrait view'
+  },
+  {
+    element:   'div.tbc div#panes button',
+    orig:      '牌山表示',
+    translate: 'Tayama display'
+  },
 ]
 
 window.setInterval(function(){
