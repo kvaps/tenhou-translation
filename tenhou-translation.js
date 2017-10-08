@@ -513,13 +513,18 @@ var data = [
 
   {
     element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-65"]',
+    orig:      '四般東喰赤速',
+    translate: 'Four General East Red Rapid'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-1"]',
     orig:      '四般東喰赤',
     translate: 'Four General East Red'
   },
   {
-    element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-1"]',
-    orig:      '四般東喰赤速',
-    translate: 'Four General East Red Rapid'
+    element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-9"]',
+    orig:      '四般南喰赤',
+    translate: 'Four General South Red'
   },
   {
     element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-73"]',
