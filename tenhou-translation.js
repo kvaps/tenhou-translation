@@ -166,6 +166,16 @@ var data = [
     translate: 'Environment'
   },
   {
+    element:   'div.tbc div#paneDisp',
+    orig:      '卓',
+    translate: 'Deck'
+  },
+  {
+    element:   'div.tbc div#paneDisp',
+    orig:      '牌',
+    translate: 'Tile'
+  },
+  {
     element:   'div.tbc div#paneDisp span[class="gray"]',
     orig:      ' / 設定',
     translate: ' / Configuration'
