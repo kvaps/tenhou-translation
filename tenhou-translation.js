@@ -37,7 +37,7 @@ var data = [
   {
     element:   'div#pane1 button[name=cfg]',
     orig:      '設定',
-    translate: 'Setting',
+    translate: 'Settings',
   },
   {
     element:   'div.tbl div[style="position:relative;font-size:150%;padding:1em 0;"]',
@@ -173,7 +173,7 @@ var data = [
   {
     element:   'div.tbc div#panes span[class="gray"]',
     orig:      '※アプリ版でのみご利用いただけます',
-    translate: '※ Only available in the application version'
+    translate: '* Only available in the application version'
   },
   {
     element:   'div.tbc div#panes label.bth',
