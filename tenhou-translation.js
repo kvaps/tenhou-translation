@@ -694,6 +694,303 @@ var data = [
     orig:      'リーチ',
     translate: 'Riichi'
   },
+  // Win screen
+  {
+    element:   'div.nosel.tbl dib.tbc div#total span.gray',
+    orig:      '跳滿',
+    translate: 'Total'
+  },
+  {
+    element:   'div.nosel.tbl dib.tbc div#total span.gray',
+    orig:      '点',
+    translate: 'points'
+  },
+  {
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"] span.gray',
+    orig:      '飜',
+    translate: 'han'
+  },
+  // Win sets
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '門前清自摸和',
+    translate: 'menzen tsumo',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '立直',
+    translate: 'riichi',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '一発',
+    translate: 'ippatsu',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '槍槓',
+    translate: 'chankan',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '嶺上開花',
+    translate: 'rinjankaihoo; rinjan',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '海底摸月',
+    translate: 'haidei tsumo',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '河底撈魚',
+    translate: 'houdei; haidei ron',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '平和',
+    translate: 'pinfu',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '断幺九',
+    translate: 'tanyao',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '一盃口',
+    translate: 'iipeekoo',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '自風 東',
+    translate: 'seat wind pon (east); fanpai',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '自風 南',
+    translate: 'seat wind pon (south); fanpai',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '自風 西',
+    translate: 'seat wind pon (west); fanpai',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '自風 北',
+    translate: 'seat wind pon (north); fanpai',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '場風 東',
+    translate: 'round wind pon (east); fanpai',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '場風 南',
+    translate: 'round wind pon (south); fanpai',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '場風 西',
+    translate: 'round wind pon (west); fanpai',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '場風 北',
+    translate: 'round wind pon (north); fanpai',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '役牌 白',
+    translate: 'haku pon; yakuhai',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '役牌 發',
+    translate: 'hatsu pon; yakuhai',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '役牌 中',
+    translate: 'chun pon; yakuhai',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '両立直',
+    translate: 'double riichi',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '七対子',
+    translate: 'all/seven pairs; chiitoitsu',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '混全帯幺九',
+    translate: 'hon chanta yaochuu; chanta',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '一気通貫',
+    translate: 'ikkitsuukan; itsuu',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '一気通貫',
+    translate: 'ikkitsuukan; itsuu',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '三色同順',
+    translate: 'sanshokudoujun; sanshiki; sanshoku',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '三色同刻',
+    translate: 'sanshokudoukoo; sanshokudoupon',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '三槓子',
+    translate: 'sankantsu',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '対々和',
+    translate: 'toitoihou; toitoi',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '三暗刻',
+    translate: 'sanankou',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '小三元',
+    translate: 'shou-sangen',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '混老頭',
+    translate: 'honroutou',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '二盃口',
+    translate: 'ryanpeikou',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '純全帯幺九',
+    translate: 'jun chanta yaochuu; jun chan',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '混一色',
+    translate: 'honiisoo; honitsu; honichi',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '清一色',
+    translate: 'chiniisoo; chinitsu; chinichi',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '人和',
+    translate: 'renhou (Tenhou doesn't count this)',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '天和',
+    translate: 'tenhou',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '地和',
+    translate: 'chiihou',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '大三元',
+    translate: 'dai-san-gen',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '四暗刻',
+    translate: 'suu-ankou',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '四暗刻単騎',
+    translate: 'suu-ankou 'single horseman' (pair wait)',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '字一色',
+    translate: 'tsu-iisou',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '緑一色',
+    translate: 'ryuu-iisou',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '清老頭',
+    translate: 'chinroutou',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '九蓮宝燈',
+    translate: 'nine gates; chuuren-pootoo',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '純正九蓮宝燈',
+    translate: ''pure' chuuren-pootoo',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '国士無双',
+    translate: 'kokushi-musou; peerless kingdom; thirteen orphans',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '国士無双１３面',
+    translate: 'kokushi-musou 13-wait',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '小四喜',
+    translate: 'shou-suushi; little four winds',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '大四喜',
+    translate: 'dai-suushi; big four winds',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '四槓子',
+    translate: 'suu-kantsu',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      'ドラ',
+    translate: 'dora',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '裏ドラ',
+    translate: 'ura-dora',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      '赤ドラ',
+    translate: 'red-five',
+},
 ]
 
 
