@@ -47,7 +47,7 @@ var data = [
   {
     element:   'div.tbc span[style="position:absolute;bottom:2em;"] span.gray',
     orig:      '大会',
-    translate: 'General Assembly<br>',
+    translate: 'Tournament<br>',
   },
   {
     element:   'div.tbc span[style="position:absolute;bottom:2em;"] span.gray',
