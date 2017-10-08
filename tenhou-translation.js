@@ -206,12 +206,12 @@ var data = [
     translate: 'Tayama display'
   },
   {
-    element:   'div.tbc div#panes button, div.tbc div.fixed-select.sscl div.B',
+    element:   'div.tbc div#panes button, div.tbc div.fixed-select.sscl div.A',
     orig:      'あり',
     translate: 'There'
   },
   {
-    element:   'div.tbc div#panes button, div.tbc div.fixed-select.sscl div.B',
+    element:   'div.tbc div#panes button, div.tbc div.fixed-select.sscl div.A',
     orig:      'なし',
     translate: 'None'
   },
