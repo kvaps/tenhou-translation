@@ -512,42 +512,58 @@ var data = [
   },
 
   {
-    element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-65"]',
+    element:   'div.tbc div.fixed-select.sscl div.A span.nobr',
     orig:      '四般東喰赤速',
     translate: 'Four East Red Rapid'
   },
   {
-    element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-1"]',
-    orig:      '四般東喰赤',
-    translate: 'Four East Red'
-  },
-  {
-    element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-9"]',
-    orig:      '四般南喰赤',
-    translate: 'Four South Red'
-  },
-  {
-    element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-73"]',
+    element:   'div.tbc div.fixed-select.sscl div.A span.nobr',
     orig:      '四般南喰赤速',
     translate: 'Four South Red Rapid'
   },
   {
-    element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-17"]',
-    orig:      '三般東喰赤',
-    translate: 'Four East Red'
-  },
-  {
-    element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-81"]',
+    element:   'div.tbc div.fixed-select.sscl div.A span.nobr',
     orig:      '三般東喰赤速',
     translate: 'Three East Red Rapid'
   },
   {
-    element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-25"]',
+    element:   'div.tbc div.fixed-select.sscl div.A span.nobr',
     orig:      '三般南喰赤',
     translate: 'Three South Red'
   },
   {
-    element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-89"]',
+    element:   'div.tbc div.fixed-select.sscl div.A span.nobr',
+    orig:      '三般東喰赤',
+    translate: 'Four East Red'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A span.nobr',
+    orig:      '四般東喰赤',
+    translate: 'Four East Red'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A span.nobr',
+    orig:      '四般南喰赤',
+    translate: 'Four South Red'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A span.nobr',
+    orig:      '三般南喰赤',
+    translate: 'Three South Red'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A span.nobr',
+    orig:      '三般南喰赤',
+    translate: 'Three South Red'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A span.nobr',
+    orig:      '三般南喰赤',
+    translate: 'Three South Red'
+  },
+
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A span.nobr',
     orig:      '三般南喰赤速',
     translate: 'Three South Red Rapid'
   },
@@ -555,21 +571,6 @@ var data = [
     element:   'div#panes div.select-wrapper button[name=rule]',
     orig:      '三般南喰赤速',
     translate: 'Three South Red Rapid'
-  },
-  {
-    element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-25"]',
-    orig:      '三般南喰赤',
-    translate: 'Three South Red'
-  },
-  {
-    element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-25"]',
-    orig:      '三般南喰赤',
-    translate: 'Three South Red'
-  },
-  {
-    element:   'div.tbc div.fixed-select.sscl div.A[id="#rule0-25"]',
-    orig:      '三般南喰赤',
-    translate: 'Three South Red'
   },
   {
     element:   'div#panes div.select-wrapper button[name=rule]',
