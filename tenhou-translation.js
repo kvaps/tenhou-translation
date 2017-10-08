@@ -1,5 +1,10 @@
 var data = [
   {
+    element:   'head title',
+    orig:      '天鳳 / Web版',
+    translate: 'Tenhou / Web version',
+  },
+  {
     element:   'a[href="http://tenhou.net/3/tr/"]',
     orig:      '【新機能】天鳳トレーニングβ(アプリ版Web版のみ)',
     translate: '[New] Tianfeng Training β (Application version only for Web version)',
