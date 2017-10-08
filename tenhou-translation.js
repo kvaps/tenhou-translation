@@ -65,7 +65,7 @@ var data = [
     translate: '(Please be aware that IDs not playing against 180 days or more will be deleted)',
   },
   {
-    element:   'div#pane1 button[name=sx]',
+    element:   'div#pane0 button[name=sx]',
     orig:      '男',
     translate: 'Man',
   },
@@ -75,7 +75,7 @@ var data = [
     translate: 'Man',
   },
   {
-    element:   'div#pane1 button[name=sx]',
+    element:   'div#pane0 button[name=sx]',
     orig:      '女',
     translate: 'Woman',
   },
@@ -85,17 +85,17 @@ var data = [
     translate: 'Woman',
   },
   {
-    element:   'div#pane1 button[name=clearid]',
+    element:   'div#pane0 button[name=clearid]',
     orig:      'ID変更',
     translate: 'Change ID',
   },
   {
-    element:   'div#pane1 button[name=cfg]',
+    element:   'div#pane0 button[name=cfg]',
     orig:      '設定',
     translate: 'Configuration',
   },
   {
-    element:   'div#pane1 button[name=mvlb]',
+    element:   'div#pane0 button[name=mvlb]',
     orig:      'ロビーの移動',
     translate: 'Move the lobby',
   },
