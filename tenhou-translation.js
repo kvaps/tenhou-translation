@@ -899,7 +899,7 @@ var data = [
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '人和',
-    translate: 'renhou (Tenhou doesn't count this)',
+    translate: 'renhou (Tenhou doesn\'t count this)',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
@@ -924,7 +924,7 @@ var data = [
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '四暗刻単騎',
-    translate: 'suu-ankou 'single horseman' (pair wait)',
+    translate: 'suu-ankou \'single horseman\' (pair wait)',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
@@ -949,7 +949,7 @@ var data = [
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '純正九蓮宝燈',
-    translate: ''pure' chuuren-pootoo',
+    translate: '\'pure\' chuuren-pootoo',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
