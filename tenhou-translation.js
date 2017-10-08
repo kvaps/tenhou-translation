@@ -244,7 +244,7 @@ var data = [
   {
     element:   'div.tbc div.fixed-select.sscl div.A[id="#testplay-64"]',
     orig:      '四般東喰赤速',
-    translate: 'General Eastern Red Rapid'
+    translate: 'Four East Red Rapid'
   },
   {
     element:   'div.tbc div.fixed-select.sscl div.A[id="#testplay-64"] div.desc',
@@ -254,7 +254,7 @@ var data = [
   {
     element:   'div.tbc div.fixed-select.sscl div.A[id="#testplay-0"]',
     orig:      '四般東喰赤',
-    translate: 'Four General Eastern Red'
+    translate: 'Four East Red'
   },
   {
     element:   'div.tbc div.fixed-select.sscl div.A[id="#testplay-0"] div.desc',
@@ -264,7 +264,7 @@ var data = [
   {
     element:   'div.tbc div.fixed-select.sscl div.A[id="#testplay-16"]',
     orig:      '三般東喰赤',
-    translate: 'Three east red'
+    translate: 'Three East Red'
   },
   {
     element:   'div.tbc div.fixed-select.sscl div.A[id="#testplay-16"] div.desc',
@@ -274,7 +274,7 @@ var data = [
   {
     element:   'div.tbc div.fixed-select.sscl div.A[id="#testplay-1536"]',
     orig:      '四若東速祝５',
-    translate: 'Four if the East speed 5'
+    translate: 'Four Young East Rapid 5'
   },
   {
     element:   'div.tbc div.fixed-select.sscl div.A[id="#testplay-1536"] div.desc',
@@ -284,7 +284,7 @@ var data = [
   {
     element:   'div.tbc div.fixed-select.sscl div.A[id="#testplay-1552"]',
     orig:      '三若東速祝５',
-    translate: 'Three if the East speed 5'
+    translate: 'Three Young East Rapid 5'
   },
   {
     element:   'div.tbc div.fixed-select.sscl div.A[id="#testplay-1552"] div.desc',
