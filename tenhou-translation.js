@@ -226,9 +226,19 @@ var data = [
     translate: 'None'
   },
   {
-    element:   'div.tbc div#panes button',
+    element:   'div.tbc div#panes label.bth',
     orig:      'SEなし',
     translate: 'No SE'
+  },
+  {
+    element:   'div.tbc div#panes label.bth',
+    orig:      '標準の画像',
+    translate: 'Standard image'
+  },
+  {
+    element:   'div.tbc div#panes div#cfgUseDefaultIMG0',
+    orig:      '画像URL:',
+    translate: 'Image URL:'
   },
 ]
 
