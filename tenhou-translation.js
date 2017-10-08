@@ -422,7 +422,7 @@ var data = [
   {
     element:   'div#hdr',
     orig:      '新人',
-    translate: ' players '
+    translate: 'players '
   }, 
   {
     element:   'div#hdr span.gray',
