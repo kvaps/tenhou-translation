@@ -125,12 +125,12 @@ var data = [
     translate: 'Event Venue 2'
   },
   {
-    element:   'div.tbc div.fixed-select.sscl a.A',
+    element:   'div.tbc div.fixed-select.sscl div.A',
     orig:      'その他',
     translate: 'Other'
   },
   {
-    element:   'div.tbc div.fixed-select.sscl a.A div.desc',
+    element:   'div.tbc div.fixed-select.sscl div.A div.desc',
     orig:      '(個室番号を指定してロビーを移動します)',
     translate: '(Specify private room number and move lobby)'
   },
