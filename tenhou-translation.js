@@ -616,8 +616,7 @@ var data = [
   {
     element:   'div.nosel div.tbl div.tbc.bgb span',
     orig:      '自動理牌',
-    translate: 'Automatic tile
-'
+    translate: 'Automatic tile'
   },
   {
     element:   'div.nosel div.tbl div.tbc.bgb span',
