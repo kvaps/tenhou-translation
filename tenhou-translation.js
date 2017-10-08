@@ -144,6 +144,23 @@ var data = [
     orig:      '(天鳳サイトの個室作成ページを開きます)',
     translate: '(Opens the private room creation page of Tenzhou site)'
   },
+
+  {
+    element:   'div.tbl div[style="position:relative;font-size:150%;padding:1em 0;"]',
+    orig:      '移動するロビー番号を入力してください。',
+    translate: 'Please enter the lobby number to be moved.',
+  },
+  {
+    element:   'div.tbl div[style="position:relative;font-size:150%;padding:1em 0;"]',
+    orig:      '例)L8141, C00112233',
+    translate: 'Example) L8141, C00112233',
+  },
+  {
+    element:   'div.tbl div[style="position:relative;font-size:150%;padding:1em 0;"]',
+    orig:      'または 8141, 00112233',
+    translate: 'Or 8141, 00112233',
+  },
+  
   {
     element:   'div.tbl div#info span[style="font-size:75%;color:#F00"]',
     orig:      'IDが正しくありません',
