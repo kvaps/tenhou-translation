@@ -641,6 +641,11 @@ var data = [
 // http://arcturus.su/tenhou/glossary.html
   {
     element:   'div.nosel div.tbl div.tbc.ts0.bblink',
+    orig:      ' 鳴き',
+    translate: 'Call'
+  },
+  {
+    element:   'div.nosel div.tbl div.tbc.ts0.bblink',
     orig:      'チー',
     translate: 'Chii'
   },
