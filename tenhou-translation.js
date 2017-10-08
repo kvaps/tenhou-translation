@@ -111,6 +111,11 @@ var data = [
   },
   {
     element:   'div.tbl div div[style="position:relative;font-size:150%;padding:1em 0;"]',
+    orig:      '入力してあるIDをクリアしますがよろしいですか？IDを紛失しないようにコピーしてください。',
+    translate: 'I will clear the ID you entered, is it OK? Please copy the ID so that it will not be lost.',
+  },
+  {
+    element:   'div.tbl div div[style="position:relative;font-size:150%;padding:1em 0;"]',
     orig:      'このプレーヤ名で新しいIDを作成しますか？',
     translate: 'Would you like to create a new ID with this player name?',
   },
