@@ -412,17 +412,17 @@ var data = [
   {
     element:   'div#hdr td.gray',
     orig:      '四麻:',
-    translate: 'four '
+    translate: '4:'
   },
   {
     element:   'div#hdr td.gray',
     orig:      '三麻:',
-    translate: 'three '
+    translate: '3:'
   }, 
   {
     element:   'div#hdr',
     orig:      '新人',
-    translate: 'players '
+    translate: 'Players'
   }, 
   {
     element:   'div#hdr span.gray',
