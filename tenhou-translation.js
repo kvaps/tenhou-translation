@@ -60,6 +60,11 @@ var data = [
     translate: '* IDs created with application version can also be used.',
   },
   {
+    element:   'div.tbl div div[style="position:relative;font-size:150%;padding:1em 0;"]',
+    orig:      'このプレーヤ名で新しいIDを作成しますか？',
+    translate: 'Would you like to create a new ID with this player name?',
+  },
+  {
     element:   'div#panes div.select-wrapper button[name="testplay"]',
     orig:      'テストプレイ',
     translate: 'Test game'
