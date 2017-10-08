@@ -154,6 +154,17 @@ var data = [
     orig:      '(３人打 東風 喰断アリ 赤アリ 祝儀)',
     translate: '(3 people blowing easterly wind Ali red ali)'
   },
+  // Settings page
+  {
+    element:   'div.tbc div#paneDisp',
+    orig:      '環境',
+    translate: 'environment'
+  },
+  {
+    element:   'div.tbc div#paneDisp span[class="gray"]',
+    orig:      ' / 設定',
+    translate: ' / Configuration'
+  },
 ]
 
 window.setInterval(function(){
