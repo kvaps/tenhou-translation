@@ -633,7 +633,59 @@ var data = [
     orig:      '鳴きなし',
     translate: 'No squealing'
   },
+// http://arcturus.su/tenhou/glossary.html
+  {
+    element:   'div.nosel div.tbl div.tbc.ts0.bblink',
+    orig:      'チー',
+    translate: 'Chii'
+  },
+  {
+    element:   'div.nosel div.tbl div.tbc.ts0.bblink',
+    orig:      'ポン',
+    translate: 'Pon'
+  },
+  {
+    element:   'div.nosel div.tbl div.tbc.ts0.bblink',
+    orig:      '抜き',
+    translate: 'Pei'
+  },
+  {
+    element:   'div.nosel div.tbl div.tbc.ts0.bblink',
+    orig:      'カン',
+    translate: 'Kan'
+  },
+  {
+    element:   'div.nosel div.tbl div.tbc.ts0.bblink',
+    orig:      '暗カン',
+    translate: 'Closed Kan'
+  },
+  {
+    element:   'div.nosel div.tbl div.tbc.ts0.bblink',
+    orig:      '加カン',
+    translate: 'Open Kan'
+  },
+  {
+    element:   'div.nosel div.tbl div.tbc.ts0.bblink',
+    orig:      '加カン',
+    translate: 'Extend Kan'
+  },
+  {
+    element:   'div.nosel div.tbl div.tbc.ts0.bblink',
+    orig:      'ロン',
+    translate: 'Ron'
+  },
+  {
+    element:   'div.nosel div.tbl div.tbc.ts0.bblink',
+    orig:      'ツモ',
+    translate: 'Tsumo'
+  },
+  {
+    element:   'div.nosel div.tbl div.tbc.ts0.bblink',
+    orig:      'リーチ',
+    translate: 'Riichi'
+  },
 ]
+
 
 window.setInterval(function(){
   for (var key in data) {
