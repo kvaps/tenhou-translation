@@ -409,7 +409,17 @@ var data = [
     translate: 'Tileback color:'
   },
   // Inside lobby
-    {
+  {
+    element:   'div#hdr td.gray',
+    orig:      '四麻:',
+    translate: 'for 4:'
+  },
+  {
+    element:   'div#hdr td.gray',
+    orig:      '三麻:',
+    translate: 'for 3:'
+  }, 
+  {
     element:   'div#hdr',
     orig:      '新人',
     translate: 'Players'
@@ -449,6 +459,11 @@ var data = [
     element:   'div#hdr span.nobr span.gray',
     orig:      '明槓ドラ',
     translate: 'ming dora:'
+  },
+  {
+    element:   'div#hdr span.nobr span.gray',
+    orig:      '後',
+    translate: 'rear'
   },
   {
     element:   'div#hdr span.nobr span.gray',
