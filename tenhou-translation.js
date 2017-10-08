@@ -490,6 +490,26 @@ var data = [
     orig:      '聴牌止め',
     translate: 'listening tapes:'
   },
+  {
+    element:   'div#panes div.select-wrapper button[name="join"]',
+    orig:      '予約',
+    translate: 'Join'
+  },
+  {
+    element:   'div#panes button[name="help"]',
+    orig:      'ヘルプ',
+    translate: 'Help'
+  },
+  {
+    element:   'div#panes button[name="hairi"]',
+    orig:      '牌理',
+    translate: 'Sets'
+  },
+  {
+    element:   'div#panes button[name="purchase"]',
+    orig:      '料金のお支払い',
+    translate: 'Purchase'
+  },
 ]
 
 window.setInterval(function(){
