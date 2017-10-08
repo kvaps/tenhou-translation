@@ -633,6 +633,11 @@ var data = [
     orig:      '鳴きなし',
     translate: 'No squealing'
   },
+  {
+    element:   'div.nosel div.tbl div.tbc.bgb span',
+    orig:      '終了',
+    translate: 'Exit'
+  },
 // http://arcturus.su/tenhou/glossary.html
   {
     element:   'div.nosel div.tbl div.tbc.ts0.bblink',
