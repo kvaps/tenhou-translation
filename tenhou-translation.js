@@ -55,6 +55,11 @@ var data = [
     translate: 'Please enter Player ID (19 half-width characters)',
   },
   {
+    element:   'div.tbl div#info span[style="font-size:75%;color:#F00"]',
+    orig:      'IDが正しくありません',
+    translate: 'Incorrect ID',
+  },
+  {
     element:   'div.tbl div[style="position:relative;font-size:150%;padding:1em 0;"]',
     orig:      '※アプリ版以外で作成したIDも使用可能です。',
     translate: '* IDs created with application version can also be used.',
