@@ -45,6 +45,16 @@ var data = [
     translate: 'Settings',
   },
   {
+    element:   'div.tbc span[style="position:absolute;bottom:2em;"] span.gray',
+    orig:      '大会',
+    translate: 'General Assembly',
+  },
+  {
+    element:   'div.tbc span[style="position:absolute;bottom:2em;"] span.gray',
+    orig:      '個室',
+    translate: 'Private room',
+  },
+  {
     element:   'div.tbl div[style="position:relative;font-size:150%;padding:1em 0;"]',
     orig:      'プレーヤ名を8文字以内で入力してください',
     translate: 'Please enter player name up to 8 characters',
