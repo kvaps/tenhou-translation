@@ -408,6 +408,73 @@ var data = [
     orig:      '牌背色:',
     translate: 'Tileback color:'
   },
+  // Inside lobby
+    {
+    element:   'div#hdr',
+    orig:      '新人',
+    translate: 'Players'
+  }, 
+  {
+    element:   'div#hdr span.gray',
+    orig:      '1位',
+    translate: '1p:'
+  },
+  {
+    element:   'div#hdr span.gray',
+    orig:      '2位',
+    translate: '2p:'
+  },
+  {
+    element:   'div#hdr span.gray',
+    orig:      '3位',
+    translate: '3p:'
+  },
+  {
+    element:   'div#hdr span.gray',
+    orig:      '4位',
+    translate: '4p:'
+  },
+
+  {
+    element:   'div#hdr span.nobr span.gray',
+    orig:      'ウマ',
+    translate: 'time:'
+  },
+  {
+    element:   'div#hdr span.nobr span.gray',
+    orig:      '1本場',
+    translate: '1 home:'
+  },
+  {
+    element:   'div#hdr span.nobr span.gray',
+    orig:      '明槓ドラ',
+    translate: 'ming dora:'
+  },
+  {
+    element:   'div#hdr span.nobr span.gray',
+    orig:      '喰断',
+    translate: 'rupture:'
+  },
+  {
+    element:   'div#hdr span.nobr span.gray',
+    orig:      '祝儀',
+    translate: 'donation:'
+  },
+  {
+    element:   'div#hdr span.nobr span.gray',
+    orig:      '東西場',
+    translate: 'east-west field:'
+  },
+  {
+    element:   'div#hdr span.nobr span.gray',
+    orig:      '和了止め',
+    translate: 'winter stop:'
+  },
+  {
+    element:   'div#hdr span.nobr span.gray',
+    orig:      '聴牌止め',
+    translate: 'listening tapes:'
+  },
 ]
 
 window.setInterval(function(){
