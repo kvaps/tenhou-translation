@@ -225,6 +225,11 @@ var data = [
     orig:      'なし',
     translate: 'None'
   },
+  {
+    element:   'div.tbc div#panes button',
+    orig:      'SEなし',
+    translate: 'No SE'
+  },
 ]
 
 window.setInterval(function(){
