@@ -634,7 +634,7 @@ var data = [
     translate: 'No squealing'
   },
   {
-    element:   'div.nosel div.tbl div.tbc.bgb span',
+    element:   'div.nosel div.tbl div.tbc.bgb',
     orig:      '終了',
     translate: 'Exit'
   },
