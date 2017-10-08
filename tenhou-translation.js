@@ -166,12 +166,12 @@ var data = [
     translate: ' / Configuration'
   },
   {
-    element:   'div.select-wrapper div#panes button',
+    element:   'div.tbc div#panes div.select-wrapper button',
     orig:      '画面方向:Default',
     translate: 'Screen direction: Default'
   },
   {
-    element:   'div.select-wrapper div#panes span.gray',
+    element:   'div.tbc div#panes div.select-wrapper span.gray',
     orig:      '※アプリ版でのみご利用いただけます',
     translate: '※ Only available in the application version'
   },
@@ -181,7 +181,7 @@ var data = [
     translate: 'Delivery ID protection'
   },
   {
-    element:   'div.select-wrapper div#panes span.gray',
+    element:   'div.tbc div#panes span.gray',
     orig:      '※ログイン画面のID入力を非表示にします',
     translate: '* Hide ID input on login screen'
   },
