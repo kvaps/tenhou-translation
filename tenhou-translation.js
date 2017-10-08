@@ -54,6 +54,106 @@ var data = [
     orig:      '※アプリ版以外で作成したIDも使用可能です。',
     translate: '* IDs created with application version can also be used.',
   },
+  {
+    element:   'div#panes div.select-wrapper button[name="testplay"]',
+    orig:      'テストプレイ',
+    translate: 'Test game'
+  },
+  {
+    element:   'div#hdr span[class="gray"]',
+    orig:      '接続:',
+    translate: 'Online:'
+  }, 
+  {
+    element:   'div#hdr span[class="gray"]',
+    orig:      '待機:',
+    translate: 'Wait:'
+  },
+  {
+    element:   'div#hdr span[class="gray"]',
+    orig:      '終局:',
+    translate: 'Out:'
+  },
+  {
+    element:   'div#hdr span[class="gray"]',
+    orig:      '有効期限:',
+    translate: 'Expire:'
+  },
+  {
+    element:   'div#hdr td[class="gray"]',
+    orig:      '段級位を取得するには',
+    translate: 'To acquire the stage grade position'
+  },
+  {
+    element:   'div#hdr td[class="gray"]',
+    orig:      '「新規ID」登録が必要です',
+    translate: '"New ID" registration is required'
+  },
+  {
+    element:   'div#panes div#lbinfo span[class="gray"]',
+    orig:      '●アドレスバーを小さくするには下にスクロールしてからゆっくり上にスクロールします(機種依存あり)',
+    translate: '●To make the address bar smaller Scroll down and then slowly scroll upward(depending on the model type)'
+  },
+  {
+    element:   'div#panes div#lbinfo span[class="gray"]',
+    orig:      '●OK/パス/ツモ切りは右クリックまたはダブルタップ',
+    translate: '●OK/Pass/Tumper cut is right click or double tap'
+  },
+  {
+    element:   'div#panes span[class="gray"]',
+    orig:      '※下の«»でタブを移動してください。',
+    translate: 'Please select game from dropdown menu'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A',
+    orig:      '四般東喰赤速',
+    translate: 'General Eastern Red Rapid'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A div.desc',
+    orig:      '(４人打 東風 喰断アリ 赤アリ 速)',
+    translate: '(4 people blowing easterly blowing ant ant red speed)'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A',
+    orig:      '四般東喰赤',
+    translate: 'Four General Eastern Red'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A div.desc',
+    orig:      '(４人打 東風 喰断アリ 赤アリ)',
+    translate: '(4 people blowing easterly blowing ant ant red)'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A',
+    orig:      '三般東喰赤',
+    translate: 'Three east red'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A div.desc',
+    orig:      '(３人打 東風 喰断アリ 赤アリ)',
+    translate: '(3 people blow east wind blowing ant ant red)'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A',
+    orig:      '四若東速祝５',
+    translate: 'Four if the East speed 5'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A div.desc',
+    orig:      '(４人打 東風 喰断アリ 赤アリ 祝儀)',
+    translate: '(4 people blowing easterly blowing ant ant red ali)'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A',
+    orig:      '三若東速祝５',
+    translate: 'Three if the East speed 5'
+  },
+  {
+    element:   'div.tbc div.fixed-select.sscl div.A div.desc',
+    orig:      '(３人打 東風 喰断アリ 赤アリ 祝儀)',
+    translate: '(3 people blowing easterly wind Ali red ali)'
+  },
 ]
 
 window.setInterval(function(){
