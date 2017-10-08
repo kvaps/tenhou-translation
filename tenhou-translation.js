@@ -47,12 +47,12 @@ var data = [
   {
     element:   'div.tbc span[style="position:absolute;bottom:2em;"] span.gray',
     orig:      '大会',
-    translate: 'General Assembly',
+    translate: 'General Assembly<br>',
   },
   {
     element:   'div.tbc span[style="position:absolute;bottom:2em;"] span.gray',
     orig:      '個室',
-    translate: 'Private room',
+    translate: 'Private room<br>',
   },
   {
     element:   'div.tbl div[style="position:relative;font-size:150%;padding:1em 0;"]',
