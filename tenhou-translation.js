@@ -250,6 +250,11 @@ var data = [
     orig:      '画像URL:',
     translate: 'Image URL:'
   },
+  {
+    element:   'div.tbc div#panes span.bth',
+    orig:      '牌背色:',
+    translate: 'Tileback color:'
+  },
 ]
 
 window.setInterval(function(){
