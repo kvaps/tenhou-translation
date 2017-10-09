@@ -888,7 +888,7 @@ var data = [
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
-    orig:      '対々和',
+    orig:      '對對和',
     translate: 'toitoihou; toitoi',
 },
 {
@@ -1008,11 +1008,6 @@ var data = [
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
-    orig:      'ドラ',
-    translate: 'dora',
-},
-{
-    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '裏ドラ',
     translate: 'ura-dora',
 },
@@ -1020,6 +1015,11 @@ var data = [
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '赤ドラ',
     translate: 'red-five',
+},
+{
+    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
+    orig:      'ドラ',
+    translate: 'dora',
 },
 ]
 
