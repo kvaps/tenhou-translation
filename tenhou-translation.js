@@ -697,11 +697,41 @@ var data = [
   // Win screen
   {
     element:   'div.nosel.tbl dib.tbc div#total span.gray',
-    orig:      '跳滿',
-    translate: 'Total'
+    orig:      '滿貫',
+    translate: 'Mangan'
   },
   {
     element:   'div.nosel.tbl dib.tbc div#total span.gray',
+    orig:      '跳滿',
+    translate: 'Haneman'
+  },
+  {
+    element:   'div.nosel.tbl dib.tbc div#total span.gray',
+    orig:      '倍滿',
+    translate: 'Baiman'
+  },
+  {
+    element:   'div.nosel.tbl dib.tbc div#total span.gray',
+    orig:      '三倍滿',
+    translate: 'Sanbaiman'
+  },
+  {
+    element:   'div.nosel.tbl dib.tbc div#total span.gray',
+    orig:      '累計役滿',
+    translate: 'Yakuman'
+  },
+  {
+    element:   'div.nosel.tbl div.tbc div#total span.gray',
+    orig:      '符',
+    translate: 'mp'
+  },
+  {
+    element:   'div.nosel.tbl div.tbc div#total span.gray',
+    orig:      '飜',
+    translate: 'han'
+  },
+  {
+    element:   'div.nosel.tbl div.tbc div#total span.gray',
     orig:      '点',
     translate: 'points'
   },
