@@ -759,22 +759,22 @@ var data = [
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '槍槓',
-    translate: 'chankan',
+    translate: 'Chan Kan',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '嶺上開花',
-    translate: 'rinjankaihoo; rinjan',
+    translate: 'Rinjan',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '海底摸月',
-    translate: 'haidei tsumo',
+    translate: 'Haidei Tsumo',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '河底撈魚',
-    translate: 'houdei; haidei ron',
+    translate: 'Haidei ron',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
@@ -854,7 +854,7 @@ var data = [
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '七対子',
-    translate: 'all/seven pairs; chiitoitsu',
+    translate: 'Chiitoitsu',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
@@ -874,27 +874,27 @@ var data = [
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '三色同刻',
-    translate: 'sanshokudoukoo; sanshokudoupon',
+    translate: 'Sanshokudoupon',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '三槓子',
-    translate: 'sankantsu',
+    translate: 'Sankantsu',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '對對和',
-    translate: 'toitoihou; toitoi',
+    translate: 'Toitoi',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '三暗刻',
-    translate: 'sanankou',
+    translate: 'Sanankou',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '小三元',
-    translate: 'shou-sangen',
+    translate: 'Shou sangen',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
@@ -904,117 +904,117 @@ var data = [
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '二盃口',
-    translate: 'ryanpeikou',
+    translate: 'Ryanpeikou',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '純全帯幺九',
-    translate: 'jun chanta yaochuu; jun chan',
+    translate: 'Junchan',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '混一色',
-    translate: 'honiisoo; honitsu; honichi',
+    translate: 'Honitsu',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '清一色',
-    translate: 'chiniisoo; chinitsu; chinichi',
+    translate: 'Chinitsu',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '人和',
-    translate: 'renhou (Tenhou doesn\'t count this)',
+    translate: 'Renhou',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '天和',
-    translate: 'tenhou',
+    translate: 'Tenhou',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '地和',
-    translate: 'chiihou',
+    translate: 'Chiihou',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '大三元',
-    translate: 'dai-san-gen',
+    translate: 'Dai sangen',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '四暗刻',
-    translate: 'suu-ankou',
+    translate: 'Suu ankou',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '四暗刻単騎',
-    translate: 'suu-ankou \'single horseman\' (pair wait)',
+    translate: 'Suu ankou (pair wait)',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '字一色',
-    translate: 'tsu-iisou',
+    translate: 'Tsu iisou',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '緑一色',
-    translate: 'ryuu-iisou',
+    translate: 'Ryuu iisou',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '清老頭',
-    translate: 'chinroutou',
+    translate: 'Chinroutou',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '九蓮宝燈',
-    translate: 'nine gates; chuuren-pootoo',
+    translate: 'Chuuren poto',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '純正九蓮宝燈',
-    translate: '\'pure\' chuuren-pootoo',
+    translate: 'Pure chuuren poto',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '国士無双',
-    translate: 'kokushi-musou; peerless kingdom; thirteen orphans',
+    translate: 'Kokushi musou',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '国士無双１３面',
-    translate: 'kokushi-musou 13-wait',
+    translate: '13-wait Kokushi musou',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '小四喜',
-    translate: 'shou-suushi; little four winds',
+    translate: 'Shou suushi',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '大四喜',
-    translate: 'dai-suushi; big four winds',
+    translate: 'Dai suushi',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '四槓子',
-    translate: 'suu-kantsu',
+    translate: 'Suu kantsu',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '裏ドラ',
-    translate: 'ura-dora',
+    translate: 'Ura dora',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '赤ドラ',
-    translate: 'red-five',
+    translate: 'Red five',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      'ドラ',
-    translate: 'dora',
+    translate: 'Dora',
 },
 ]
 
