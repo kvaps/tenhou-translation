@@ -744,17 +744,17 @@ var data = [
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '門前清自摸和',
-    translate: 'menzen tsumo',
+    translate: 'Menzen Tsumo',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '立直',
-    translate: 'riichi',
+    translate: 'Riichi',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '一発',
-    translate: 'ippatsu',
+    translate: 'Ippatsu',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
@@ -779,77 +779,77 @@ var data = [
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '平和',
-    translate: 'pinfu',
+    translate: 'Pinfu',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '断幺九',
-    translate: 'tanyao',
+    translate: 'Tanyao chuu',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '一盃口',
-    translate: 'iipeekoo',
+    translate: 'Iipeikou',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '自風 東',
-    translate: 'seat wind pon (east); fanpai',
+    translate: 'Fanpai (east seat)',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '自風 南',
-    translate: 'seat wind pon (south); fanpai',
+    translate: 'Fanpai (south seat)',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '自風 西',
-    translate: 'seat wind pon (west); fanpai',
+    translate: 'Fanpai (west seat)',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '自風 北',
-    translate: 'seat wind pon (north); fanpai',
+    translate: 'Fanpai (north seat)',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '場風 東',
-    translate: 'round wind pon (east); fanpai',
+    translate: 'Fanpai (east round)',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '場風 南',
-    translate: 'round wind pon (south); fanpai',
+    translate: 'Fanpai (south round)',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '場風 西',
-    translate: 'round wind pon (west); fanpai',
+    translate: 'Fanpai (west round)',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '場風 北',
-    translate: 'round wind pon (north); fanpai',
+    translate: 'Fanpai (north round)',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '役牌 白',
-    translate: 'haku pon; yakuhai',
+    translate: 'Yakuhai (haku)',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '役牌 發',
-    translate: 'hatsu pon; yakuhai',
+    translate: 'Yakuhai (hatsu)',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '役牌 中',
-    translate: 'chun pon; yakuhai',
+    translate: 'Yakuhai (chun)',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '両立直',
-    translate: 'double riichi',
+    translate: 'Double Riichi',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
@@ -859,22 +859,17 @@ var data = [
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '混全帯幺九',
-    translate: 'hon chanta yaochuu; chanta',
+    translate: 'Chanta',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '一気通貫',
-    translate: 'ikkitsuukan; itsuu',
-},
-{
-    element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
-    orig:      '一気通貫',
-    translate: 'ikkitsuukan; itsuu',
+    translate: 'Itsuu',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '三色同順',
-    translate: 'sanshokudoujun; sanshiki; sanshoku',
+    translate: 'Sanshoku',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
@@ -904,7 +899,7 @@ var data = [
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
     orig:      '混老頭',
-    translate: 'honroutou',
+    translate: 'Honroutou',
 },
 {
     element:   'div.tbc td[width="50%"][align="center"][valign="top"] td[align="left"]',
