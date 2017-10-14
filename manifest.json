@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "name": "Tenhou translation",
+  "version": "0.0.2",
+
+  "description": "English language for Thenhou mahjong HTML5 version",
+  "icons": {
+    "16": "res/icons/tenhou-16.png",
+    "32": "res/icons/tenhou-32.png",
+    "64": "res/icons/tenhou-64.png",
+    "128": "res/icons/tenhou-128.png",
+    "160": "res/icons/tenhou-160.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": [
+        "*://tenhou.net/0/*",
+        "*://tenhou.net/3/*"
+      ],
+      "js": [
+        "src/libs/jquery/jquery-3.2.1.slim.min.js",
+        "src/js/tenhou-translation.js"
+      ]
+    }
+  ],
+
+  "permissions": ["notifications", "storage"]
+}

@@ -5,11 +5,6 @@ var data = [
     translate: 'Tenhou / Web version',
   },
   {
-    element:   'a[href="http://tenhou.net/3/tr/"]',
-    orig:      '【新機能】天鳳トレーニングβ(アプリ版Web版のみ)',
-    translate: '[New] Tianfeng Training β (Application version only for Web version)',
-  },
-  {
     element:   '#_tenhou_hid_d a',
     orig:      'Flash版で開く',
     translate: 'Flash version',
@@ -73,6 +68,16 @@ var data = [
     element:   'div.tbl div[style="position:relative;font-size:150%;padding:1em 0;"] small.gray',
     orig:      '(※180日以上対戦を行っていないIDは削除されますのでご注意ください)',
     translate: '(Please be aware that IDs not playing against 180 days or more will be deleted)',
+  },
+  {
+    element:   'div.tbl div[style="position:relative;font-size:150%;padding:1em 0;"] small.gray',
+    orig:      '再接続しますか？',
+    translate: 'Do you want to reconnect?',
+  },
+  {
+    element:   'div.tbl div[style="position:relative;font-size:150%;padding:1em 0;"] small.gray',
+    orig:      'Wi-Fi(無線LAN)やbluetoothは電子レンジや近隣利用者の影響を受け接続が切れる場合があります',
+    translate: 'Wi-Fi (wireless LAN) and bluetooth may be disconnected due to the influence of microwave ovens and neighboring users',
   },
   {
     element:   'div#pane0 button[name=sx]',
